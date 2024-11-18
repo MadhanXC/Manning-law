@@ -1385,6 +1385,14 @@ body[class*="astra"] .uagb-faq-questions {
   row-gap: 20px;
   column-gap: 20px;
 }
+.uagb-block-d5d67a71.wp-block-uagb-image {
+  text-align: center;
+  justify-content: center;
+  align-self: center;
+}
+.uagb-block-d5d67a71 .wp-block-uagb-image__figure {
+  align-items: center;
+}
 .uagb-block-d5d67a71.wp-block-uagb-image--layout-default figure img {
   box-shadow: 20px -20px 0px 0px #00000070 inset;
 }
@@ -3629,8 +3637,8 @@ body[class*="astra"] .uagb-faq-questions {
     flex-wrap: wrap;
   }
   .wp-block-uagb-container.uagb-block-fe83ce66 {
-    padding-top: 140px;
-    padding-bottom: 80px;
+    padding-top: 60px;
+    padding-bottom: 60px;
     padding-left: 24px;
     padding-right: 24px;
     margin-top: !important;
@@ -3741,7 +3749,7 @@ body[class*="astra"] .uagb-faq-questions {
   }
   .wp-block-uagb-container.uagb-block-13a75f80 {
     padding-top: 0px;
-    padding-bottom: 64px;
+    padding-bottom: 0px;
     padding-left: 24px;
     padding-right: 24px;
     margin-top: 0px !important;
